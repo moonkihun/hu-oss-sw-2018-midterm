@@ -9,5 +9,7 @@ Midterm
 ##TODO
 
 *[]Add introductory text file about myself
+
 *[]Write some wili page about this respository
+
 *[]Open, refer, close issues, milestones and projects
